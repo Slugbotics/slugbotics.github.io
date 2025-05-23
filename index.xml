@@ -1,25 +1,500 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slugbotics</title><link>https://slugbotics.com/</link><description>Recent content on Slugbotics</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://slugbotics.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://slugbotics.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/about/</guid><description>Slugbotics is a student organization at UC Santa Cruz focused on introducing students to hands-on robotics engineering, founded in 2017. In the 2018-2019 school year, our team designed, fabricated, and programmed BIG SLAB. Our second ROV, BIG SLAB is capable of performing various tasks in the MATE competition including object deployment and manipulation, water quality sensing, and autonomous analysis. Since then, we have continued to grow and learn, tackling new projects, and introducing others to the field of robotics.</description></item><item><title>Attributions</title><link>https://slugbotics.com/attributions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/attributions/</guid><description>Bulma (MIT) The MIT License (MIT) Copyright (c) 2020 Jeremy Thomas Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;#34;Software&amp;#34;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</description></item><item><title>Bios</title><link>https://slugbotics.com/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/team/</guid><description>Team Leads Neal Chokshi &amp;rarr;
-Neal Chokshi
-Pronouns: he/him
-About
-Neal is a second year Computer Science major, and is a Formula 1/10 Lead on Slugbotics. On the team, he leads others in developing and testing the autonomous algorithms necessary to drive the car.
-&amp;nbsp;LinkedIn Andrew Gavgavian &amp;rarr;
-Andrew Gavgavian
-Pronouns: he/him
-About
-Andrew is a fourth year computer science student participating with the team for his fourth year. A previous software and networking lead for Slugbotics, Andrew now focuses on assisting others with bug fixes and development of the main control systems.</description></item><item><title>Combat Robotics</title><link>https://slugbotics.com/projects/combat_robotics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/combat_robotics/</guid><description>Starting 2021, Slugbotics has a new sub-team focusing on Combat robotics competitions.
-Slugger Slugger is our first robot created to compete in the NRL Sacramento Bot Battles regional competition. We learned valuable information about how to create and plan to build a battle bot and it helped shaped our expectations for the future.
-We were successfully able to compete in the 2022 Sacramento Bot Battles and fight 2 teams there. One team we beat was Team Flagship from UCLA.</description></item><item><title>Contact</title><link>https://slugbotics.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/contact/</guid><description>Email You can reach us via email at slugbotics@ucsc.edu
-Social Media Please connect with us on LinkedIn, like us on Facebook, and follow us on Instagram for updates about the Slugbotics team and our underwater ROV.</description></item><item><title>Cruz Control</title><link>https://slugbotics.com/projects/formula1tenth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/formula1tenth/</guid><description>What is Cruz Control? Originally, this team was focused on competing in the F1Tenth competition for autonomous racing, but now we have pivoted to working on Autonomous Driving research.
-What do we research? We are currently researching the use of Spiking Neural Networks with Prof. Jason Eshragian, and using Deep Reinforcement Learning and LLMs to create more robust and explainable driving models with Prof. Leilani Gilpin. Currently we are learning to use the nuScenes dataset to train a simple lane-following model which we can then test on our 1/10th scale autonomous car.</description></item><item><title>Join</title><link>https://slugbotics.com/join/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/join/</guid><description>NOTE: We are no longer accepting members for the 2021-2022 season. See the bottom of this page for details.
-Join Slugbotics We&amp;rsquo;re glad that you&amp;rsquo;re interested in joining our team! Here at Slugbotics, we wish to bring every aspiring engineer into the field of robotics, regardless of background. To do this, we accept new members every Fall quarter, and provide relevant trainings and onboardings to give every member the skills they need to build robots, regardless of previous experience.</description></item><item><title>MATE</title><link>https://slugbotics.com/projects/mate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/mate/</guid><description>What is MATE? The MATE (Marine Advanced Technical Education) Competition is an underwater robotics competition in which students create remotely operated underwater vehicles (ROVs) which are capable of performing a variety of tasks. Teams work to design, build, and test ROVs to perform various tasks, through mechanical, electrical, and programming work, and take their finished ROV to competition.
-For more information, see the official MATE website.
-How does the MATE Competition work?</description></item><item><title>Onboarding</title><link>https://slugbotics.com/onboarding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/onboarding/</guid><description>Our Onboarding Process Each Fall, Slugbotics takes in new members and introduces them to skills relevant to robotics. We offer three onboarding tracks to cover the three prominent roles used in robotics engineering: Mechanical, Electronics, and Systems. These onboarding tracks are custom-designed to teach students the skills necessary to participate in our competitions and can be learned with minimal prerequisite knowledge. This makes the hands-on experience with engineering accessible to students at UCSC, regardless of prior experience or significance.</description></item><item><title>Outreach</title><link>https://slugbotics.com/projects/outreach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/outreach/</guid><description>At Slugbotics, we aim to bring everyone into the fold of robotics. This means going above and beyond UCSC students participating in our teams, and branching out to introduce others in our community to the awesome potential of robotics.
-MATE Regional Competitions Slugbotics assists MATE teams at the regional level, working with middle and high school teams to deploy and debug their ROVs, as well as scoring the competition. This assistance helps teams learn practices from college-level students on our team, as well as helps prepare them to compete in more advanced competitions, such as at the International level.</description></item><item><title>SOMARS</title><link>https://slugbotics.com/projects/somars/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/somars/</guid><description>SOMARS is a sub-team of Slugbotics focused on autonomous robotics competitions. The sub-team was spawned based off the 2021 FAA Challenge competition, with its namesake deriving from the submission to the competition (System for the Oversight and Management of Autonomous Robotics Systems). It now works in collaboration with the CITRIS Institute and professor Steve McGuire, competing in CITRIS competitions against teams from UC Berkeley, UC Davis, and UC Merced.</description></item><item><title>Sponsors/Donations</title><link>https://slugbotics.com/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/sponsors/</guid><description>Our Sponsors Giving Day 2021 Thank you for all of your support this Giving Day. With your help, we were able to raise over $5,000, which will help our team&amp;rsquo;s continued commitment to providing hands-on robotics experience in the UCSC community, and beyond.
-Missed Giving Day? It&amp;rsquo;s not too late to contribute!
-Donate Now Our Donors Shiva Abbaszadeh
-Thomas Atlas
-Helen A Austin
-Francesc Andre Bertomeu
-Neal Chokshi
-Peter Craig</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slugbotics</title><link>https://slugbotics.com/</link><description>Recent content on Slugbotics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://slugbotics.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://slugbotics.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/about/</guid><description>&lt;p>Slugbotics is a student organization at UC Santa Cruz focused on introducing
+students to hands-on robotics engineering, founded in 2017. In the 2018-2019
+school year, our team designed, fabricated, and programmed BIG SLAB. Our second
+ROV, BIG SLAB is capable of performing various tasks in the MATE competition
+including object deployment and manipulation, water quality sensing, and
+autonomous analysis. Since then, we have continued to grow and learn, tackling
+new projects, and introducing others to the field of robotics.&lt;/p></description></item><item><title>Attributions</title><link>https://slugbotics.com/attributions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/attributions/</guid><description>&lt;h2 id="bulma-mit">Bulma (MIT)&lt;/h2>
+&lt;pre tabindex="0">&lt;code>The MIT License (MIT)
+
+Copyright (c) 2020 Jeremy Thomas
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the &amp;#34;Software&amp;#34;), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED &amp;#34;AS IS&amp;#34;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+&lt;/code>&lt;/pre>&lt;h2 id="fontawesome-free-ofl">FontAwesome Free (OFL)&lt;/h2>
+&lt;pre tabindex="0">&lt;code>-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+&amp;#34;Font Software&amp;#34; refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+&amp;#34;Reserved Font Name&amp;#34; refers to any names specified as such after the
+copyright statement(s).
+
+&amp;#34;Original Version&amp;#34; refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+&amp;#34;Modified Version&amp;#34; refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+&amp;#34;Author&amp;#34; refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION &amp;amp; CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED &amp;#34;AS IS&amp;#34;, WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+&lt;/code>&lt;/pre></description></item><item><title>Bios</title><link>https://slugbotics.com/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/team/</guid><description>&lt;/div>
+&lt;hr>
+&lt;h1 class="title">Team Leads&lt;/h1>
+
+&lt;script> 
+ slugbotics_modal_presentation = (id) => {
+ document.getElementById(id).classList.toggle("is-active");
+ }
+&lt;/script>
+
+&lt;div class="columns is-variable is-7">
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+&lt;div class="column is-one-quarter sb-bio" onclick="slugbotics_modal_presentation('[neal_chokshi _modal]')">
+ &lt;figure class="image is-square">
+ 
+ &lt;img src="https://slugbotics.com/images/bios/neal-chokshi.jpg">
+ 
+ &lt;/figure>
+ &lt;p class="has-text-centered">Neal Chokshi &amp;rarr;&lt;/p>
+ 
+&lt;/div>
+
+
+&lt;div class="modal" id="[neal_chokshi _modal]">
+ &lt;div class="modal-background" onclick="slugbotics_modal_presentation('[neal_chokshi _modal]')">&lt;/div>
+ &lt;div class="modal-card">
+ &lt;header class="modal-card-head">
+ &lt;p class="modal-card-title">Neal Chokshi&lt;/p>
+ &lt;button id="sb-card-button" class="delete is-danger" aria-label="close" onclick="slugbotics_modal_presentation('[neal_chokshi _modal]')">&lt;/button>
+ &lt;/header>
+ &lt;section class="modal-card-body">
+ &lt;div class="columns is-centered">
+ &lt;div class="column">
+ &lt;figure class="image is-square">
+ 
+ &lt;img src="https://slugbotics.com/images/bios/neal-chokshi.jpg">
+ 
+ &lt;/figure>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="columns">
+ &lt;div class="column">
+ 
+ &lt;p>Pronouns: he/him&lt;/p>
+ 
+ &lt;p>&lt;strong>About&lt;/strong>&lt;/p>
+ &lt;p>Neal is a second year Computer Science major, and is a Formula 1/10 Lead on Slugbotics. On the team, he leads others in developing and testing the autonomous algorithms necessary to drive the car.&lt;/p>
+ &lt;/div>
+ &lt;/div>
+ &lt;/section>
+ &lt;footer class="modal-card-foot">
+ &lt;div class="buttons is-centered sb-force-fullwidth">
+ 
+ &lt;a href="https://www.linkedin.com/in/neal-chokshi-73b00a192/">
+ &lt;button class="button is-link">
+ &lt;i class="fab fa-linkedin">&lt;/i>
+ &lt;span class="is-hidden-mobile">&amp;nbsp;LinkedIn&lt;/span>
+ &lt;/button>
+ &lt;/a>
+ 
+
+ 
+
+ 
+
+ 
+ &lt;/div>
+ &lt;/footer>
+ &lt;/div>
+&lt;/div>
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+&lt;div class="column is-one-quarter sb-bio" onclick="slugbotics_modal_presentation('[andrew_gavgavian _modal]')">
+ &lt;figure class="image is-square">
+ 
+ &lt;img src="https://slugbotics.com/images/bios/andrew-gavgavian.jpg">
+ 
+ &lt;/figure>
+ &lt;p class="has-text-centered">Andrew Gavgavian &amp;rarr;&lt;/p></description></item><item><title>Combat Robotics</title><link>https://slugbotics.com/projects/combat_robotics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/combat_robotics/</guid><description>&lt;p>Starting 2021, Slugbotics has a new sub-team focusing on Combat robotics competitions.&lt;/p>
+&lt;h1 id="slugger">Slugger&lt;/h1>
+
+&lt;/div>
+
+
+
+&lt;div class="columns is-centered">
+ &lt;div class="column is-four-fifths">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/combat_robots/Isometric%20with%20Backgorund.JPG">
+ &lt;/figure>
+ 
+ &lt;/div>
+&lt;/div>
+
+
+&lt;div class="content">
+
+&lt;p>Slugger is our first robot created to compete in the NRL Sacramento Bot Battles
+regional competition. We learned valuable information about how to create and plan to
+build a battle bot and it helped shaped our expectations for the future.&lt;/p>
+
+&lt;/div>
+
+
+
+&lt;div class="columns is-centered">
+ &lt;div class="column is-four-fifths">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/combat_robots/Isometric%20Top%20Open%20with%20Backgorund.JPG">
+ &lt;/figure>
+ 
+ &lt;/div>
+&lt;/div>
+
+
+&lt;div class="content">
+
+&lt;p>We were successfully able to compete in the 2022 Sacramento Bot Battles and fight 2 teams there. One team we beat was Team Flagship from UCLA.
+Here is a youtube video of the competition!
+&lt;section>
+ &lt;div class="video-container">
+ &lt;iframe
+ class="responsive-iframe"
+ width="100%"
+ height="auto"
+ src="https://www.youtube.com/embed/HDQjG8A2zHQ"
+ allowfullscreen
+ >&lt;/iframe>
+ &lt;/div>
+&lt;/section>
+&lt;/p></description></item><item><title>Contact</title><link>https://slugbotics.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/contact/</guid><description>&lt;h2 id="email">Email&lt;/h2>
+&lt;p>You can reach us via email at &lt;a href="mailto:slugbotics@ucsc.edu">slugbotics@ucsc.edu&lt;/a>&lt;/p>
+&lt;h2 id="social-media">Social Media&lt;/h2>
+&lt;p>Please connect with us on LinkedIn, like us on Facebook, and follow us on Instagram for updates about the Slugbotics team and our underwater ROV.&lt;/p>
+
+&lt;/div>
+
+&lt;div class="container slugbotics-social">
+ &lt;div class="level is-mobile">
+ &lt;div class="level-item">
+ &lt;a href="https://www.facebook.com/Slugbotics/" target="_blank">
+ &lt;i class="fab fa-facebook-square fa-4x">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+ &lt;div class="level-item">
+ &lt;a href="https://www.instagram.com/slugbotics/" target="_blank">
+ &lt;i class="fab fa-instagram-square fa-4x">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+ &lt;div class="level-item">
+ &lt;a href="https://www.linkedin.com/company/slugbotics/" target="_blank">
+ &lt;i class="fab fa-linkedin fa-4x">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+ &lt;div class="level-item">
+ &lt;a href="https://www.youtube.com/channel/UCt55n_zVbW7QUO89-qKBeZw" target="_blank">
+ &lt;i class="fab fa-youtube-square fa-4x">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+ &lt;div class="level-item">
+ &lt;a href="https://www.tiktok.com/@slugbotics?is_from_webapp=1&amp;sender_device=pc" target="_blank">
+ &lt;i class="fab fa-tiktok fa-4x">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+
+ &lt;div class="level-item">
+ &lt;a href="http://discord.slugbotics.com/" target="_blank">
+ &lt;i class="fab fa-discord fa-4x">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+&lt;div class="content"></description></item><item><title>Cruz Control</title><link>https://slugbotics.com/projects/formula1tenth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/formula1tenth/</guid><description>&lt;h1 id="what-is-cruz-control">What is Cruz Control?&lt;/h1>
+&lt;p>Originally, this team was focused on competing in the F1Tenth competition for autonomous racing, but now we have pivoted to working on Autonomous Driving research.&lt;/p>
+
+&lt;/div>
+
+
+
+&lt;div class="columns is-centered">
+ &lt;div class="column is-four-fifths">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/about/promo/f1tenth2.jpg">
+ &lt;/figure>
+ 
+ &lt;/div>
+&lt;/div>
+
+
+&lt;div class="content">
+
+&lt;h1 id="what-do-we-research">What do we research?&lt;/h1>
+&lt;p>We are currently researching the use of Spiking Neural Networks with Prof. Jason Eshragian, and using Deep Reinforcement Learning and LLMs to create more robust and explainable driving models with Prof. Leilani Gilpin. Currently we are learning to use the nuScenes dataset to train a simple lane-following model which we can then test on our 1/10th scale autonomous car.&lt;/p></description></item><item><title>Join</title><link>https://slugbotics.com/join/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/join/</guid><description>&lt;p>&lt;strong>NOTE: We are no longer accepting members for the 2021-2022 season. See the
+bottom of this page for details.&lt;/strong>&lt;/p>
+&lt;h1 id="join-slugbotics">Join Slugbotics&lt;/h1>
+&lt;p>We&amp;rsquo;re glad that you&amp;rsquo;re interested in joining our team! Here at Slugbotics, we
+wish to bring every aspiring engineer into the field of robotics, regardless
+of background. To do this, we accept new members every Fall quarter, and
+provide relevant trainings and onboardings to give every member the skills they
+need to build robots, regardless of previous experience. This also means we
+don&amp;rsquo;t gate admission into the team based on any kind of academic ability or
+prior participation - all who are willing to learn, participate, and
+contribute are welcome.&lt;/p></description></item><item><title>MATE</title><link>https://slugbotics.com/projects/mate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/mate/</guid><description>&lt;h1 id="what-is-mate">What is MATE?&lt;/h1>
+&lt;p>The MATE (Marine Advanced Technical Education) Competition is an underwater
+robotics competition in which students create remotely operated underwater
+vehicles (ROVs) which are capable of performing a variety of tasks. Teams work
+to design, build, and test ROVs to perform various tasks, through mechanical,
+electrical, and programming work, and take their finished ROV to competition.&lt;/p>
+&lt;p>For more information, see
+&lt;a href="https://www.materovcompetition.org">the official MATE website.&lt;/a>&lt;/p>
+&lt;h1 id="how-does-the-mate-competition-work">How does the MATE Competition work?&lt;/h1>
+&lt;p>Each November, the MATE Competition releases
+a manual detailing the tasks that each team’s ROV must complete. MATE Teams
+construct ROVs to accomplish wide varieties of tasks, from object manipulation
+and signal sending, to autonomous navigation. Through mechanical, electrical,
+and software engineering, teams develop their ROVs over Winter and Spring
+quarter, before taking it to competition the following June.&lt;/p></description></item><item><title>Onboarding</title><link>https://slugbotics.com/onboarding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/onboarding/</guid><description>&lt;h1 id="our-onboarding-process">Our Onboarding Process&lt;/h1>
+&lt;p>Each Fall, Slugbotics takes in new members and introduces them to skills relevant to robotics. We offer three onboarding tracks to cover the three prominent roles used in robotics engineering: Mechanical, Electronics, and Systems. These onboarding tracks are custom-designed to teach students the skills necessary to participate in our competitions and can be learned with minimal prerequisite knowledge. This makes the hands-on experience with engineering accessible to students at UCSC, regardless of prior experience or significance.&lt;/p></description></item><item><title>Outreach</title><link>https://slugbotics.com/projects/outreach/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/outreach/</guid><description>&lt;p>At Slugbotics, we aim to bring everyone into the fold of robotics. This means
+going above and beyond UCSC students participating in our teams, and branching
+out to introduce others in our community to the awesome potential of robotics.&lt;/p>
+&lt;h1 id="mate-regional-competitions">MATE Regional Competitions&lt;/h1>
+
+&lt;/div>
+
+
+
+&lt;div class="columns is-centered">
+ &lt;div class="column is-four-fifths">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/outreach/regional.jpg">
+ &lt;/figure>
+ 
+ &lt;/div>
+&lt;/div>
+
+
+&lt;div class="content">
+
+&lt;p>Slugbotics assists MATE teams at the regional level, working with middle and
+high school teams to deploy and debug their ROVs, as well as scoring the
+competition. This assistance helps teams learn practices from college-level
+students on our team, as well as helps prepare them to compete in more advanced
+competitions, such as at the International level.&lt;/p></description></item><item><title>SOMARS</title><link>https://slugbotics.com/projects/somars/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/somars/</guid><description>&lt;/div>
+
+
+
+&lt;div class="columns is-centered">
+ &lt;div class="column is-four-fifths">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/about/promo/somars2.jpg">
+ &lt;/figure>
+ 
+ &lt;/div>
+&lt;/div>
+
+
+&lt;div class="content">
+
+&lt;p>SOMARS is a sub-team of Slugbotics focused on autonomous robotics competitions.
+The sub-team was spawned based off the 2021 FAA Challenge competition, with its
+namesake deriving from the submission to the competition (System for the Oversight and Management
+of Autonomous Robotics Systems). It now works in collaboration with the CITRIS
+Institute and professor Steve McGuire, competing in CITRIS competitions against
+teams from UC Berkeley, UC Davis, and UC Merced.&lt;/p></description></item><item><title>Sponsors/Donations</title><link>https://slugbotics.com/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/sponsors/</guid><description>&lt;h2 id="our-sponsors">Our Sponsors&lt;/h2>
+
+&lt;/div>
+
+&lt;div class="columns is-multiline is-centered">
+ 
+ 
+ &lt;div class="column is-one-fifth">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/sponsors/1altium.png">
+ &lt;/figure>
+ &lt;/div>
+ 
+ 
+ &lt;div class="column is-one-fifth">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/sponsors/2gener8.png">
+ &lt;/figure>
+ &lt;/div>
+ 
+ 
+ &lt;div class="column is-one-fifth">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/sponsors/CPSRC.png">
+ &lt;/figure>
+ &lt;/div>
+ 
+ 
+ &lt;div class="column is-one-fifth">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/sponsors/bac.png">
+ &lt;/figure>
+ &lt;/div>
+ 
+ 
+ &lt;div class="column is-one-fifth">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/sponsors/crown.png">
+ &lt;/figure>
+ &lt;/div>
+ 
+ 
+ &lt;div class="column is-one-fifth">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/sponsors/deveera.png">
+ &lt;/figure>
+ &lt;/div>
+ 
+ 
+ &lt;div class="column is-one-fifth">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/sponsors/rcc.png">
+ &lt;/figure>
+ &lt;/div>
+ 
+ 
+ &lt;div class="column is-one-fifth">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/sponsors/slab.png">
+ &lt;/figure>
+ &lt;/div>
+ 
+ 
+ &lt;div class="column is-one-fifth">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/sponsors/solidworks.png">
+ &lt;/figure>
+ &lt;/div>
+ 
+ 
+ &lt;div class="column is-one-fifth">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/sponsors/sua.png">
+ &lt;/figure>
+ &lt;/div>
+ 
+&lt;/div>
+
+
+&lt;div class="content">
+
+&lt;h2 id="giving-day-2021">Giving Day 2021&lt;/h2>
+&lt;p>Thank you for all of your support this Giving Day. With your help, we were able
+to raise over $5,000, which will help our team&amp;rsquo;s continued commitment to
+providing hands-on robotics experience in the UCSC community, and beyond.&lt;/p>
+&lt;p>Missed Giving Day? It&amp;rsquo;s not too late to contribute!&lt;/p>
+&lt;div>
+ &lt;button class="button is-secondary is-large">
+ &lt;a href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&amp;gid=1001&amp;pgid=780&amp;cid=1749&amp;dids=990">Donate Now&lt;/a>
+&lt;/div>
+&lt;h3 id="our-donors">Our Donors&lt;/h3>
+
+&lt;/div>
+
+&lt;div class="columns is-multiline">
+ 
+ 
+ &lt;div class="column is-one-third">
+ &lt;p class="is-size-5 has-text-centered">Shiva Abbaszadeh&lt;/p></description></item></channel></rss>

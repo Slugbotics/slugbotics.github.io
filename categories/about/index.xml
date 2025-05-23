@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Slugbotics</title><link>https://slugbotics.com/categories/about/</link><description>Recent content in About on Slugbotics</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://slugbotics.com/categories/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Cruz Control</title><link>https://slugbotics.com/projects/formula1tenth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/formula1tenth/</guid><description>What is Cruz Control? Originally, this team was focused on competing in the F1Tenth competition for autonomous racing, but now we have pivoted to working on Autonomous Driving research.
-What do we research? We are currently researching the use of Spiking Neural Networks with Prof. Jason Eshragian, and using Deep Reinforcement Learning and LLMs to create more robust and explainable driving models with Prof. Leilani Gilpin. Currently we are learning to use the nuScenes dataset to train a simple lane-following model which we can then test on our 1/10th scale autonomous car.</description></item><item><title>MATE</title><link>https://slugbotics.com/projects/mate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/mate/</guid><description>What is MATE? The MATE (Marine Advanced Technical Education) Competition is an underwater robotics competition in which students create remotely operated underwater vehicles (ROVs) which are capable of performing a variety of tasks. Teams work to design, build, and test ROVs to perform various tasks, through mechanical, electrical, and programming work, and take their finished ROV to competition.
-For more information, see the official MATE website.
-How does the MATE Competition work?</description></item><item><title>SOMARS</title><link>https://slugbotics.com/projects/somars/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/somars/</guid><description>SOMARS is a sub-team of Slugbotics focused on autonomous robotics competitions. The sub-team was spawned based off the 2021 FAA Challenge competition, with its namesake deriving from the submission to the competition (System for the Oversight and Management of Autonomous Robotics Systems). It now works in collaboration with the CITRIS Institute and professor Steve McGuire, competing in CITRIS competitions against teams from UC Berkeley, UC Davis, and UC Merced.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Slugbotics</title><link>https://slugbotics.com/categories/about/</link><description>Recent content in About on Slugbotics</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://slugbotics.com/categories/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Cruz Control</title><link>https://slugbotics.com/projects/formula1tenth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/formula1tenth/</guid><description>&lt;h1 id="what-is-cruz-control">What is Cruz Control?&lt;/h1>
+&lt;p>Originally, this team was focused on competing in the F1Tenth competition for autonomous racing, but now we have pivoted to working on Autonomous Driving research.&lt;/p>
+
+&lt;/div>
+
+
+
+&lt;div class="columns is-centered">
+ &lt;div class="column is-four-fifths">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/about/promo/f1tenth2.jpg">
+ &lt;/figure>
+ 
+ &lt;/div>
+&lt;/div>
+
+
+&lt;div class="content">
+
+&lt;h1 id="what-do-we-research">What do we research?&lt;/h1>
+&lt;p>We are currently researching the use of Spiking Neural Networks with Prof. Jason Eshragian, and using Deep Reinforcement Learning and LLMs to create more robust and explainable driving models with Prof. Leilani Gilpin. Currently we are learning to use the nuScenes dataset to train a simple lane-following model which we can then test on our 1/10th scale autonomous car.&lt;/p></description></item><item><title>MATE</title><link>https://slugbotics.com/projects/mate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/mate/</guid><description>&lt;h1 id="what-is-mate">What is MATE?&lt;/h1>
+&lt;p>The MATE (Marine Advanced Technical Education) Competition is an underwater
+robotics competition in which students create remotely operated underwater
+vehicles (ROVs) which are capable of performing a variety of tasks. Teams work
+to design, build, and test ROVs to perform various tasks, through mechanical,
+electrical, and programming work, and take their finished ROV to competition.&lt;/p>
+&lt;p>For more information, see
+&lt;a href="https://www.materovcompetition.org">the official MATE website.&lt;/a>&lt;/p>
+&lt;h1 id="how-does-the-mate-competition-work">How does the MATE Competition work?&lt;/h1>
+&lt;p>Each November, the MATE Competition releases
+a manual detailing the tasks that each team’s ROV must complete. MATE Teams
+construct ROVs to accomplish wide varieties of tasks, from object manipulation
+and signal sending, to autonomous navigation. Through mechanical, electrical,
+and software engineering, teams develop their ROVs over Winter and Spring
+quarter, before taking it to competition the following June.&lt;/p></description></item><item><title>SOMARS</title><link>https://slugbotics.com/projects/somars/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://slugbotics.com/projects/somars/</guid><description>&lt;/div>
+
+
+
+&lt;div class="columns is-centered">
+ &lt;div class="column is-four-fifths">
+ &lt;figure class="image">
+ &lt;img src="https://slugbotics.com/images/about/promo/somars2.jpg">
+ &lt;/figure>
+ 
+ &lt;/div>
+&lt;/div>
+
+
+&lt;div class="content">
+
+&lt;p>SOMARS is a sub-team of Slugbotics focused on autonomous robotics competitions.
+The sub-team was spawned based off the 2021 FAA Challenge competition, with its
+namesake deriving from the submission to the competition (System for the Oversight and Management
+of Autonomous Robotics Systems). It now works in collaboration with the CITRIS
+Institute and professor Steve McGuire, competing in CITRIS competitions against
+teams from UC Berkeley, UC Davis, and UC Merced.&lt;/p></description></item></channel></rss>
